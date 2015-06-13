@@ -1,4 +1,6 @@
 # Chains
+
+[![Join the chat at https://gitter.im/SuperCowPowers/chains](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SuperCowPowers/chains?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Python Chained Generators for Security Data [http://chains.rtfd.org](http://chains.rtfd.org)
 
 [![docs](https://readthedocs.org/projects/chains/badge/?style=flat)](https://readthedocs.org/projects/chains)
